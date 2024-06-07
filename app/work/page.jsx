@@ -37,10 +37,10 @@ const projects = [
   },
   {
     num: "02",
-    category: "Energy Solutions",
+    category: "Hackathon Project",
     title: "Smart Predicting System for Solar Energy",
     description:
-      "Developed a smart system using Python and machine learning to predict solar energy generation and storage requirements. Utilized Flask to create a web-based interface for easy access and visualization of predictions, aiding efficient resource allocation in off-grid communities. This project was created during the Hackventure hackathon and won 3rd prize.",
+      "This project was created during the Hackventure hackathon and won 3rd prize. Developed a smart system using Python and machine learning to predict solar energy generation and storage requirements. Utilized Flask to create a web-based interface for easy access and visualization of predictions, aiding efficient resource allocation in off-grid communities.",
     stack: [
       { name: "Python" },
       { name: "Machine Learning" },
