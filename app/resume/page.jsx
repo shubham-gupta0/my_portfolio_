@@ -56,11 +56,6 @@ const experience = {
   title: "My Experience",
   items: [
     {
-      company: "Leopardruns Innovation",
-      position: "Software Developer Intern",
-      duration: "March 2024 - April 2024",
-    },
-    {
       company: "IIIT-NR",
       position: "App Admin & Developer",
       duration: "August 2023 - Present",
